@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/clown_ginkgo.mk
+    $(LOCAL_DIR)/pixelage_ginkgo.mk
